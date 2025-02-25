@@ -5,3 +5,5 @@ A Detecção do imageBlocker3x identifica conteúdo adulto ou violento em uma im
 o Ajuste da probabilidade de bloqueio é feito no código-fonte.
 
 ![img.png](img.png)
+
+fonte: https://cloud.google.com/vision?hl=pt_br
