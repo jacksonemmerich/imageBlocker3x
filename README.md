@@ -6,4 +6,13 @@ o Ajuste da probabilidade de bloqueio é feito no código-fonte.
 
 ![img.png](img.png)
 
+
+### Local do storage e chave de acesso da API do Google Cloud Vision
+
+
+![img_1.png](img_1.png)
+
+
+
+
 fonte: https://cloud.google.com/vision?hl=pt_br
